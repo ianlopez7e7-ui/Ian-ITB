@@ -18,8 +18,20 @@ Soc un estudiant cursant el primer any de DAWe a l'Institut Tecnològic de Barce
     >*Català, Castellà, Anglés*
     
 
-  - ***LLenguatges de programació:***
+  - ***LLenguatges de marques:***
 
-    >*Python, Kotlin*
+    >*HTML, CSS*
+
+<=============================================>
+### Estudis Acadèmics
+
+>***Grau mitjà - Sistemes microinformàtics i xarxes [SMX]***
+
+>***Grau Superior - Desenvolupament d'aplicacions Web [DAWe]***
+
+
+>***Títol Teòric de Piano - Grau 3***
+
+>***Títol Pràctic de Piano - Grau 3***
 
 <=============================================>
